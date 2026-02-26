@@ -18,7 +18,7 @@ A Flask web app that calculates demerits points on driving speed and speed limit
 - Flash message feedback
 
 # How to run
-# macOS (Homebrew Python)
+macOS (Homebrew Python)
 ```bash
 python3 flask_app.py
 ```
